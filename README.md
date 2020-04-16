@@ -1,3 +1,3 @@
 # DigitRecognizer
-fc.py - Fullyconnected version \n
-cnn.py - Convolutional version
+fc.py - Fullyconnected version <br />
+cnn.py - Convolutional version <br />
