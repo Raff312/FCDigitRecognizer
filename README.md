@@ -1,1 +1,1 @@
-# FCDigitRecognizer
+# DigitRecognizer
